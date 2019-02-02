@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 09aef4309a2620f46a7b439a8b9ddca7
+timeCreated: 1444826561
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - powerupPickedSound: {fileID: 8300000, guid: f331dc7541aeda74e9e7932550212566,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
